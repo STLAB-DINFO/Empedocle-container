@@ -46,7 +46,7 @@ docker-compose down
 ```
 ## Usage
 ### Configuration Guide
-Please Refer to the "Guida alla Configurazione.pdf" for instructions on how to use the web application.
+Please Refer to the "Configuration Guide.pdf" for instructions on how to use the web application.
 
 ## License
 This project is licensed under the [LICENSE NAME] - see the LICENSE.md file for details.
